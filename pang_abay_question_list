@@ -1,0 +1,30 @@
+PANG-ABAY QUESTION LIST
+
+1. Dadalawin ko si Jaymeleen bukas.
+        prompt: Alin ang pang-abay?
+        choices: [dadalawin, Jaymeleen, bukas]
+        correct_answer: bukas
+
+2. Uunlad din ang inyong negosyo sa darating na panahon.
+        prompt: Alin ang pang-abay?
+        choices: [dadalawin, Jaymeleen, bukas]
+        correct_answer: bukas    
+        
+3. Sinundo ko ang aking kapatid _____.
+        prompt: Alin ang tamang pang-abay?
+        choices: [kanina, bukas, samakalawa]
+        correct_answer: kanina
+
+4. Sinundo ko ang aking kapatid _____.
+        prompt: Alin ang tamang pang-abay?
+        choices: [kanina, bukas, samakalawa]
+        correct_answer: kanina
+        
+5. Ginagawa ko ang aking mga takdang-aralin nang _____.
+        prompt: Alin ang tamang pang-abay?
+        choices: [mamaya, tuwing hapon, mabilis]
+        correct_answer: kanina
+
+
+
+* theoretical
