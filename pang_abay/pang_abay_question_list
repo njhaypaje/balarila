@@ -1,9 +1,24 @@
 PANG-ABAY QUESTION LIST
 
-1. Dadalawin ko si Jaymeleen bukas.
-        prompt: Alin ang pang-abay?
-        choices: [dadalawin, Jaymeleen, bukas]
-        correct_answer: bukas
+'''
+Instructions:
+
+a. Pakilagyan ng "" lahat ng strings.
+b. Kung may quotation marks within the string, lagyan po ng \" 
+        (Example: "Ang \"bait\" mo naman.")
+c. Mark as "Create a new branch and start a pull request." Huwag po munang i-"commit to main."
+d. Don't hesistate to ask questions for clarifications.
+e. Follow the example I did sa unang number.
+
+Thanks.
+'''
+
+
+
+1. "Dadalawin ko si Jaymeleen bukas."
+        prompt: "Alin ang pang-abay?"
+        choices: ["dadalawin", "Jaymeleen", "bukas"]
+        correct_answer: "bukas"
 
 2. Uunlad din ang inyong negosyo sa darating na panahon.
         prompt: Alin ang pang-abay?
@@ -30,6 +45,9 @@ PANG-ABAY QUESTION LIST
 * theoretical
 
 38. Ano ang "pang-abay" sa Ingles?
-        prompt: Alin ang tamang salin?
+        prompt: Alin ang tamang salin?"
         choices: [verb, adjective, adverb]
         correct_answer: adverb
+        
+39. Ano ang inaabay-abay (o sinasamahan) ng pang-abay?
+        prompt: 
