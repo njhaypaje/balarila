@@ -28,3 +28,8 @@ PANG-ABAY QUESTION LIST
 
 
 * theoretical
+
+38. Ano ang "pang-abay" sa Ingles?
+        prompt: Alin ang tamang salin?
+        choices: [verb, adjective, adverb]
+        correct_answer: adverb
