@@ -21,8 +21,8 @@ Thanks.
         correct_answer: "bukas"
 
 2. "Uunlad din ang inyong negosyo sa darating na panahon."
-        prompt: "Alin ang pang-abay?"
-        choices: ["dadalawin", "Jaymeleen", "bukas"]
+        prompt: "Alin ang hindi pang-abay?"
+        choices: ["din", "uunlad", "darating na panahon"]
         correct_answer: "bukas"    
         
 3. "Sinundo ko ang aking kapatid _____."
@@ -30,15 +30,17 @@ Thanks.
         choices: ["kanina", "bukas", "samakalawa"]
         correct_answer: "kanina"
 
-4. "Sinundo ko ang aking kapatid _____."
-        prompt: "Alin ang tamang pang-abay?"
-        choices: ["kanina", "bukas", "samakalawa"]
-        correct_answer: "kanina"
+4. "Magkakaroon ang aming pamilya ng salo-salo sa susunod na araw."
+        prompt: "Bakit \"sa susunod na araw\" ang pang-abay?"
+        choices: [ "Dahil katabi ito ng salo-salo (pangngalan)", 
+                        "Dahil sinasabi nito kung kailan magkakaroon (pandiwa) ng salo-salo", 
+                        "Dahil isa itong umaabay na parirala (phrase) sa pamilya"]
+        correct_answer: "Dahil sinasabi nito kung kailan magkakaroon (pandiwa) ng salo-salo"
         
 5. "Ginagawa ko ang aking mga takdang-aralin nang _____."
         prompt: "Alin ang tamang pang-abay?"
         choices: ["mamaya", "tuwing hapon", "mabilis"]
-        correct_answer: "kanina"
+        correct_answer: "mabilis"
 
 
 
@@ -49,5 +51,5 @@ Thanks.
         choices: ["verb", "adjective", "adverb"]
         correct_answer: "adverb"
         
-39. "Ano ang inaabay-abay \"o sinasamahan\" ng pang-abay\"
+39. "Ano ang inaabay-abay (o sinasamahan) ng pang-abay?"
         prompt: 
