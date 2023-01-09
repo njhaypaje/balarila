@@ -52,4 +52,6 @@ Thanks.
         correct_answer: "adverb"
         
 39. "Ano ang inaabay-abay (o sinasamahan) ng pang-abay?"
-        prompt: 
+        prompt: "Piliin ang tamang sagot."
+        choices: ["Mga pangngalan (nouns)", "Mga pang-uri (adjectives)", "Mga panghalip (pronouns)"]
+        correct_answer: "Mga pang-uri (adjectives)"
