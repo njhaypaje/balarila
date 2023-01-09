@@ -46,8 +46,8 @@ Thanks.
 
 * theoretical
 
-38. "Ano ang \"pang-abay\" sa Ingles\"
-        prompt: "Alin ang tamang salin?"
+38. "Ano ang \"pang-abay\" sa Ingles\?"
+        prompt: "Piliin ang tamang katumbas na termino."
         choices: ["verb", "adjective", "adverb"]
         correct_answer: "adverb"
         
@@ -55,3 +55,8 @@ Thanks.
         prompt: "Piliin ang tamang sagot."
         choices: ["Mga pangngalan (nouns)", "Mga pang-uri (adjectives)", "Mga panghalip (pronouns)"]
         correct_answer: "Mga pang-uri (adjectives)"
+        
+40. "Ano ang sinasagot na tanong ng pang-abay?"
+        prompt: "Piliin ang tamang sagot."
+        choices: ["Sino ang gumagawa?", "Paano ginagawa?", "Bakit ginagawa?"]
+        correct_answer: "Paano ginagawa?"
