@@ -74,7 +74,10 @@ Thanks.
         choices: ["Paano sumigaw?", "Kanino sumigaw?", "Bakit sumigaw?"]
         correct_answer: "Paano sumigaw?"            
 
-
+12. "Alin sa mga ito ang hindi salitang pang-abay?"
+        prompt: "Pillin ang tamang sagot."
+        choices: ["na (already)", "bago (new)", "bago (before)"]
+        correct_answer: "Paano sumigaw?"   
 
 
 
@@ -82,6 +85,11 @@ Thanks.
 
 
 * theoretical
+
+37. Para sa mga pandiwa, ano ang katumbas ng mga pang-uri sa pangngalan?
+        prompt: "Pillin ang tamang sagot."
+        choices: ["pang-abay", "pang-ukol", "pandiwa"]
+        correct_answer: "Pang-abay"   
 
 38. "Ano ang \"pang-abay\" sa Ingles\?"
         prompt: "Piliin ang tamang katumbas na termino."
