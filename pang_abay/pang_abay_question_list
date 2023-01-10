@@ -15,15 +15,16 @@ Thanks.
 
 
 
-1. "Dadalawin ko si Jaymeleen bukas."
-        prompt: "Alin ang pang-abay?"
-        choices: ["dadalawin", "Jaymeleen", "bukas"]
+1: {    
+        question: "Dadalawin ko si Jaymeleen bukas.",
+        prompt: "Alin ang pang-abay?",
+        choices: ["dadalawin", "Jaymeleen", "bukas"],
         correct_answer: "bukas"
-
+}
 2. "Uunlad din ang inyong negosyo sa darating na panahon."
         prompt: "Alin ang hindi pang-abay?"
         choices: ["din", "uunlad", "darating na panahon"]
-        correct_answer: "bukas"    
+        correct_answer: "darating na panahon"    
         
 3. "Sinundo ko ang aking kapatid _____."
         prompt: "Alin ang tamang pang-abay?"
@@ -79,10 +80,26 @@ Thanks.
         choices: ["na (already)", "bago (new)", "bago (before)"]
         correct_answer: "Paano sumigaw?"   
 
+13. "Magkita tayo bukas."
+        prompt: "Alin ang pang-abay?"
+        choices: ["magkita", "tayo", "bukas"]
+        correct_answer: "bukas"   
 
+14. "Masaya niya akong niyaya na pumunta sa Luneta."
+        prompt: "Alin ang pang-abay?"
+        choices: ["niyaya", "masaya", "Luneta"]
+        correct_answer: "bukas" 
 
-
-
+15. "Mabilis na tumakbo ang mga bata."
+        prompt: "Alin ang pang-abay?"
+        choices: ["mabilis", "tumakbo", "bata"]
+        correct_answer: "mabilis"
+  
+ 16. "Tinulak niya ako palabas."
+        prompt: "Alin ang pang-abay?"
+        choices: ["tinulak", "niya", "palabas"]
+        correct_answer: "palabas"
+   
 
 * theoretical
 
