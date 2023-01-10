@@ -41,6 +41,43 @@ Thanks.
         prompt: "Alin ang tamang pang-abay?"
         choices: ["mamaya", "tuwing hapon", "mabilis"]
         correct_answer: "mabilis"
+        
+6. "Magkita tayo bukas."
+        prompt: "Alin ang pang-abay?"
+        choices: ["magkita", "tayo", "bukas"]
+        correct_answer: "bukas"
+        
+7. "Kumakain ng mabilis si Juan."
+        prompt: "Alin ang mali sa pangungusap na ito?"
+        choices: ["Hindi dapat mabilis kumain si Juan.", 
+                        "\"Nang\" ang dapat gamitin sa mga pang-abay.", 
+                        "Walang angkop na pang-abay sa pangungusap na ito."]
+        correct_answer: "bukas"
+
+8. "Maingat niyang pinulot ang basag na baso."
+        prompt: "Alin ang pang-abay?"
+        choices: ["maingat", "basag", "pinulot"]
+        correct_answer: "maingat"
+        
+9. "Ginagawa namin ang takdang-aralin sa tamang oras."
+        prompt: "Alin ang pang-abay?"
+        choices: ["sa tamang oras", "takda", "tama"]
+        correct_answer: "sa tamang oras"
+        
+10. "Sumigaw nang malakas si Sam kay Jacob."
+        prompt: "Ano ang sinasagot ng salitang pang-abay sa pangungusap?"
+        choices: ["Paano sumigaw?", "Kanino sumigaw?", "Bakit sumigaw?"]
+        correct_answer: "Paano sumigaw?"    
+        
+11. "Sumigaw nang malakas si Sam kay Jacob."
+        prompt: "Ano ang sinasagot ng pang-abay sa pangungusap?"
+        choices: ["Paano sumigaw?", "Kanino sumigaw?", "Bakit sumigaw?"]
+        correct_answer: "Paano sumigaw?"            
+
+
+
+
+
 
 
 
