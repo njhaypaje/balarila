@@ -47,18 +47,14 @@ Wala na raw pagkain nang dumating ako sa handaan.
 QUESTIONS
  
 NG
- 
-Ito ay ginagamit kasunod ng mga pang-uring pamilang.
-Ito ay ginagamit sa mga pangngalan
-Ito ay ginagamit upang magsaad ng pagmamay-ari.
-Ito ay ginagamit kapag ang sinusundan na salita ay pang-uri.
-Ito ay  ginagamit upang pananda sa gumaganap ng pandiwa sa pangungusap.
-Ito ay ginagamit bilang pang-ukol na pananda ng layon ng pandiwa
-Ito ay ginagamit bilang pang-ukol na pananda ng tagaganap ng pandiwa
-Sumasagot sa mga tanong na ano at nino.
-Ito ay tumutukoy sa pag-aari ng anumang pangngalan maliban sa mga pangngalang pantangi
-Ito ay ginagamit bilang pang-ukol sa pagpapahayag ng pag-aari. 
- 
+
+(prompt: Alin ang tinutukoy?)
+
+NG - Ito ay nagpapakita ng pagmamay-ari. (Halimbawa: \"Ito ang lapis ____ estudyante.\")
+NG - Ito ay tanda sa kumikilos o gumaganap sa pandiwa o verb. (Halimbawa: Binigyan ____ candy ang bata.)
+NG - Sinasagot nito ang tanong na \"sino\" at \"kanino\". (Halimbawa: Ang libro ng bata ay binigay ng guro. Sino ang nagbigay? Kanino ang libro? Kanino ibinigay ang libro?)
+NG - Ito ay tumutukoy sa pag-aari. (Halimbawa: Siya ang girlfriend _____ kuya ko.)
+NG - Ito ay pang-ukol sa pagpapahayag ng pag-aari (Halimbawa: Ang ina ang ilaw _____ tahanan.). 
  
 NANG
  
