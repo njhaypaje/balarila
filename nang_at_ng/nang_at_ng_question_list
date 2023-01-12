@@ -1,56 +1,50 @@
 NANG AT NG QUESTION LIST
 
-(nang, ng; prompt: Alin ang tamang gamitin?)
+(all choices - ["nang", "ng"])
 
-1. NG - Kumain siya _____ maraming sisig at kanin.
-2. NG - Bumili si Daizen _____ apat na tinapay.
-3. NG - Magsaing ka _____ walong takal ng bigas.
-4. NG - Magdala ka _____ regalo para sa handaan.
-5. NG - Ang tiwala _____ tao ay mahirap makuha kaya ingatan mo ito.
-6. NG - Ang silid-aralan ____ mga bata ay maliit.
-7. NG - Bumili ako ____ damit para sa iyo, mahal.
-8. NG - Kumain _____ apat na tinapay si Raul bago umalis kaninang umaga.
-9. NG - Bumili _____ mansanas si Nanay para sa 'tin.
-10. NG - Mahal ang laruan _____ bata.
-11. NG - Ang ganda ng pagkanta _____ singer kanina.
- 
- 
-NANG
- 
-Magsiusap kayo nang tahimik sa loob ng silid-aklatan.
-Pabilis nang pabilis siyang tumakbo habang hinabol siya ng mga aso. 
-Dumighay nang dumighay ang lalaki dahil sa dami niyang nakain. 
-Nang bumángon siya, maliwánag na sa labás. 
-Takbo nang takbo ang bata sa parke sa sobrang kaligayang naramdaman niya.
-Umaga nang dumating si Juan sa bahay nila. 
-Sobra nang pagkamasungit ni Coniza. 
-Hayaan mo nang kunin niya yung mga gamit niya.
-Nag-aral nang tahimik ang magkapatid.
-Umalis ka nang maaga upang iyong maabutan ang tatay mo sa bahay.
-Iyak nang iyak ang bata pagkatapos na tumanggi ang kanyang ina na bilhan siya ng bagong laruan.
-Tahol nang tahol ang aso dahil sa mga bagong mukha na nakita nito sa gitna ng pagdiriwang sa bahay ng mga Ignacio.
-Takbo nang takbo ang mga bata kaya sa sobrang pagod ay mabilis silang nakatulog sa gabi.
-Bigay nang bigay si Haring Soliman kaya hindi alam ng mga anak niya ang magbanat ng buto.
-Umalis na lamang si Julio dahil alam niyang kahit anong sabihin niya, iyak nang iyak pa rin ang bata.
-Pumasok nang dahan-dahan si Simeon upang hindi na magising pa ang mga kapatid niya.
-Ginastos ni Paulo ang pera nang walang paalam mula sa kanyang ina.
-Nilagay niya nang paunti-unti ang mantika upang hindi ito tumalsik.
-Tumakbo si Juana nang nakapikit.
-Wala na raw pagkain nang dumating ako sa handaan.
+(prompt: Alin ang tamang gamitin?)
+
+1. ng - Kumain siya _____ maraming sisig at kanin.
+2. ng - Bumili si Daizen _____ apat na tinapay.
+3. ng - Magsaing ka _____ walong takal ng bigas.
+4. ng - Magdala ka _____ regalo para sa handaan.
+5. ng - Ang tiwala _____ tao ay mahirap makuha kaya ingatan mo ito.
+6. ng - Ang silid-aralan ____ mga bata ay maliit.
+7. ng - Bumili ako ____ damit para sa iyo, mahal.
+8. ng - Kumain _____ apat na tinapay si Raul bago umalis kaninang umaga.
+9. ng - Bumili _____ mansanas si Nanay para sa 'tin.
+10. ng - Mahal ang laruan _____ bata.
+11. ng - Ang ganda ng pagkanta _____ singer kanina. 
+12. nang - Magsiusap kayo _____ tahimik. Nasa silid-aklatan kayo!.
+13. nang - Dumighay _____ dumighay ang lalaki sa dami ng kinain niya. 
+14. nang - _____ bumangon siya, maliwanag na sa labas. 
+15. nang - Takbo _____ takbo ang bata sa sobrang saya nila.
+16. nang - Huli _____ pumasok si Juan sa paaralan. 
+17. nang - Sobra _____ masungit ni Coniza. 
+18. nang - Hayaan mo _____ magpakalayo siya.
+19. nang - Nag-aral _____ tahimik ang magkapatid.
+20. nang - Umalis ka _____ maaga para huwag kang maubusan ng handa.
+21. nang - Iyak _____ iyak ang bata nang di sila napagbigyan.
+22. nang - Tahol_____ tahol ang aso.
+23. nang - Takbo _____ takbo ang mga bata kaya mabilis silang nakatulog.
+24. nang - Pumasok _____ dahan-dahan si Simeon upang di na magising ang mga kapatid niya.
+25. nang - Ginastos ni Paulo ang pera _____ walang paalam mula sa kaniyang ina.
+26. nang - Nilagay niya _____ paunti-unti ang mantika upang hindi ito tumalsik.
+27. nang - Wala na raw pagkain _____ dumating ako sa handaan.
  
 (prompt: Alin ang tinutukoy?)
 
-28. NG - Ito ay nagpapakita ng pagmamay-ari. (Halimbawa: \"Ito ang lapis ____ estudyante.\")
-29. NG - Ito ay tanda sa kumikilos o gumaganap sa pandiwa o verb. (Halimbawa: Binigyan ____ candy ang bata.)
-30. NG - Sinasagot nito ang tanong na \"sino\" at \"kanino\". (Halimbawa: Ang libro ng bata ay binigay ng guro. Sino ang nagbigay? Kanino ang libro? Kanino ibinigay ang libro?)
-31. NG - Ito ay tumutukoy sa pag-aari. (Halimbawa: Siya ang girlfriend _____ kuya ko.)
-32. NG - Ito ay pang-ukol sa pagpapahayag ng pag-aari (Halimbawa: Ang ina ang ilaw _____ tahanan.). 
-33. NANG - Ginagamit ito sa gitna ng mga pandiwa o verb na inuulit. (Halimbawa: \"Ang kuya mo, kain ___ kain!\")
-34. NANG - Sa malalim na balarila, pampalit ito sa “na at ang”, “na at ng”, at “na at na.”
-35. NANG - Ginagamit ito para magsaad ng dahilan. (Halimbawa: \"Mag-aral ka nang mabuti _____ umulad ka.\")
-36. NANG - Ginagamit ito kapag inuulit ang pandiwa upang magpahayag ng matindi o patuloy na aksiyon (Halimbawa: \"Sulat _____ sulat si Nyl ng gagamitin sa Capstone niya!\").
-37. NANG - Ito ay katumbas ng \"upang\" o \"para\" sa pagtukoy ng dahilan o resulta ng aksiyon. (Halimbawa: \"Bumili si Jacq ng pasalubong _____ matuwa ang nanay niya.\")
-38. NANG - Ito ay katumbas ng salitang \"noon\" sa pagtukoy sa nakalipas na aksiyon. (Halimbawa: \"Nanalo ang Warriors _____ maka-three points si Curry.\")
-39. NANG - Kasama ng mga pang-abay, ito ay sumasagot sa mga tanong na paano, kailan, gaano, o bakit.
-40. NANG - Ito ay panandang sinusundan ng pang-abay. (Halimbawa: \"Umalis siya _____ maaga.\" (\"Maaga\" ang pang-abay.))
+28. ng - Ito ay nagpapakita ng pagmamay-ari. (Halimbawa: \"Ito ang lapis ____ estudyante.\")
+29. ng - Ito ay tanda sa kumikilos o gumaganap sa pandiwa o verb. (Halimbawa: Binigyan ____ candy ang bata.)
+30. ng - Sinasagot nito ang tanong na \"sino\" at \"kanino\". (Halimbawa: Ang libro ng bata ay binigay ng guro. Sino ang nagbigay? Kanino ang libro? Kanino ibinigay ang libro?)
+31. ng - Ito ay tumutukoy sa pag-aari. (Halimbawa: Siya ang girlfriend _____ kuya ko.)
+32. ng - Ito ay pang-ukol sa pagpapahayag ng pag-aari (Halimbawa: Ang ina ang ilaw _____ tahanan.). 
+33. nang - Ginagamit ito sa gitna ng mga pandiwa o verb na inuulit. (Halimbawa: \"Ang kuya mo, kain ___ kain!\")
+34. nang - Pampalit ito sa “na at ang”, “na at ng”, at “na at na.” (Halimbawa: \"Gabing-gabi (na + ng) umuwi siya sa bahay.\")
+35. nang - Ginagamit ito para magsaad ng dahilan. (Halimbawa: \"Mag-aral ka nang mabuti _____ umulad ka.\")
+36. nang - Ginagamit ito kapag inuulit ang pandiwa upang magpahayag ng matindi o patuloy na aksiyon (Halimbawa: \"Sulat _____ sulat si Nyl ng gagamitin sa Capstone niya!\").
+37. nang - Ito ay katumbas ng \"upang\" o \"para\" sa pagtukoy ng dahilan o resulta ng aksiyon. (Halimbawa: \"Bumili si Jacq ng pasalubong _____ matuwa ang nanay niya.\")
+38. nang - Ito ay katumbas ng salitang \"noon\" sa pagtukoy sa nakalipas na aksiyon. (Halimbawa: \"Nanalo ang Warriors _____ maka-three points si Curry.\")
+39. nang - Kasama ng mga pang-abay, ito ay sumasagot sa mga tanong na paano, kailan, gaano, o bakit.
+40. nang - Ito ay panandang sinusundan ng pang-abay. (Halimbawa: \"Umalis siya _____ maaga.\" (\"Maaga\" ang pang-abay.))
 
